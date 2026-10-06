@@ -4,11 +4,11 @@ Linux System Information Report
 
 Current User: rana
 Current Directory: /home/rana/linux-sys-info-proj
-Current Date: Tue Oct  6 08:16:29 AM EDT 2026
-Current Shell: 
+Current Date: Tue Oct  6 08:31:51 AM EDT 2026
+Current Shell: /usr/bin/zsh
 Hostname: Rana
-Linux Distribution: 
-Number of Files in Current Directory: 2
+Linux Distribution: Kali GNU/Linux Rolling
+Number of Files in Current Directory: 3
 Current Directory Permissions: drwxrwxr-x
 
 Disk Usage:
@@ -18,12 +18,12 @@ tmpfs           791M  1.2M  790M   1% /run
 /dev/sda1        93G   18G   71G  20% /
 tmpfs           3.9G  4.0K  3.9G   1% /dev/shm
 none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
-tmpfs           3.9G  296K  3.9G   1% /tmp
+tmpfs           3.9G  464K  3.9G   1% /tmp
 none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
 tmpfs           791M  108K  791M   1% /run/user/1000
 
 Memory Usage:
                total        used        free      shared  buff/cache   available
-Mem:           7.7Gi       1.0Gi       5.6Gi        13Mi       1.4Gi       6.7Gi
+Mem:           7.7Gi       1.0Gi       5.5Gi        16Mi       1.4Gi       6.7Gi
 Swap:          5.1Gi          0B       5.1Gi
 
